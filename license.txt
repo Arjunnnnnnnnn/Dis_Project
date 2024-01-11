@@ -1,0 +1,11 @@
+Model Information:
+* title:	Male Body 2
+* source:	https://sketchfab.com/3d-models/male-body-2-bf7eb5f7f2504f7bbdda4ab00a71e23c
+* author:	cgspektor (https://sketchfab.com/cgspektor)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Male Body 2" (https://sketchfab.com/3d-models/male-body-2-bf7eb5f7f2504f7bbdda4ab00a71e23c) by cgspektor (https://sketchfab.com/cgspektor) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
